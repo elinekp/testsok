@@ -1,1 +1,2 @@
 (pressure ulcer OR press* ulc*)
+(intensive care OR critical care)
