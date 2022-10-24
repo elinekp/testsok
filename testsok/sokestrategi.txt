@@ -1,2 +1,2 @@
 (pressure ulcer OR press* ulc*)
-(intensive care OR critical care)
+((intensive OR critical) ADJ2 care)
